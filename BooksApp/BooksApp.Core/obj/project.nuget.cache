@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TaPWIaSRtLrV30HgqVefic6wNWAsEOQTh1AK8pUArj8/e/HnAKofbfO2NGdBKoSUDBKU+LhuD0VWJbYinqW2dQ==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehme\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
